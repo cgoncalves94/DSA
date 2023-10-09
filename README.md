@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in Python
 
-Welcome to the Data Structures and Algorithms in Python repository! This project serves as a comprehensive resource for those interested in learning and exploring the fascinating world of data structures and algorithms. Whether you're a student, a developer, or simply curious about how these fundamental concepts work, you've come to the right place.
+This project is a comprehensive resource for those interested in learning and exploring the fascinating world of data structures and algorithms. Whether you're a student, a developer, or simply curious about how these fundamental concepts work, you've come to the right place.
 
 ## About this Repository
 
