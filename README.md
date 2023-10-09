@@ -59,6 +59,6 @@ Please make sure to update tests as appropriate and open an issue first to discu
 
 ## License
 
-This project is licensed under the MIT License. You are encouraged to use, study, and build upon this repository for educational purposes. For complete details, please refer to the [LICENSE](LICENSE.txt) file.
+This project is licensed under the MIT License. You are encouraged to use, study, and build upon this repository for educational purposes. For complete details, please refer to the [LICENSE](LICENSE.md) file.
 
 Happy learning, and enjoy your journey through the world of data structures and algorithms!
