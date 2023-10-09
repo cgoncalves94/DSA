@@ -5,7 +5,7 @@ This repository implements common data structures and algorithms in Python.
 ## Data Structures
 
 ### Linked Lists
-- [Singly Linked List](DataStructures/LinkedLists/singly_linked_list.py)
+- [Singly Linked List](DataStructures/LinkedLists/linked_list.py)
 - [Doubly Linked List](DataStructures/LinkedLists/doubly_linked_list.py)
 - [Node](DataStructures/LinkedLists/node.py)
 
